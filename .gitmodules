@@ -1,0 +1,4 @@
+[submodule "pyBusPirateLite"]
+	path = pyBusPirateLite
+	url = https://github.com/slapab/pyBusPirateLite
+	branch = devel
